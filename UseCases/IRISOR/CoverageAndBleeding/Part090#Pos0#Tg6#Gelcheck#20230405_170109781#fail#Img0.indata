@@ -1,0 +1,6 @@
+;Trigger:ePlc
+InputDataBlock.StripSubstrateId=1033209316
+InputDataBlock.RecipeStepName=CoverageAndBleeding
+InputDataBlock.PartId=90
+InputDataBlock.LotId=ZA301416M0C
+InputDataBlock.ImageType=0
